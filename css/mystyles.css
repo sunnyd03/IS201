@@ -1,0 +1,42 @@
+.background {
+    background-color: azure;
+}
+
+.body {
+    font-family: monospace;
+}
+
+a {
+    font-size: 20px;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+h1 {
+    font-size: 40px;
+    color: steelblue;
+}
+
+.list{
+    font-size: 25px;
+    color: lightsteelblue;
+}
+
+.video{
+    font-size: 20px;
+    color: deepskyblue;
+}
+
+.graph {
+    font-size: 20px;
+    color: cadetblue;
+}
